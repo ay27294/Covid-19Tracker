@@ -1,0 +1,6 @@
+#map-container {
+  padding: 5px 0px;
+}
+canvas.mapboxgl-canvas {
+  padding-top: 15px;
+}
